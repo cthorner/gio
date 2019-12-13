@@ -51,9 +51,9 @@ futures-core = "0.3"
 futures-channel = "0.3"
 futures-util = "0.3"
 futures-io = "0.3"
-gio-sys = { git = "https://github.com/gtk-rs/sys" }
-glib-sys = { git = "https://github.com/gtk-rs/sys" }
-glib = { git = "https://github.com/gtk-rs/glib" }
+gio-sys = { git = "https://github.com/cthorner/sys" }
+glib-sys = { git = "https://github.com/cthorner/sys" }
+glib = { git = "https://github.com/cthorner/glib" }
 gobject-sys = { git = "https://github.com/gtk-rs/sys" }
 
 [dev-dependencies]
