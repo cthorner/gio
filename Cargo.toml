@@ -54,7 +54,7 @@ futures-io = "0.3"
 gio-sys = { git = "https://github.com/cthorner/sys" }
 glib-sys = { git = "https://github.com/cthorner/sys" }
 glib = { git = "https://github.com/cthorner/glib" }
-gobject-sys = { git = "https://github.com/gtk-rs/sys" }
+gobject-sys = { git = "https://github.com/cthorner/sys" }
 
 [dev-dependencies]
 gir-format-check = "^0.1"
